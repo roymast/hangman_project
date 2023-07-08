@@ -8,4 +8,7 @@
 # How to use
  1. Clone the repo
  2. Install the required libraries.
- 3. Run Server.py and than Client.py(reccomend using multiple computers, must be on the same network)
+ 3. Run Server.py
+ 4. run Client.py
+ 5. Follow instructions in the game
+ 6. Have Fun!
